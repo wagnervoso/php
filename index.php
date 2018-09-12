@@ -1,4 +1,4 @@
 <?php
-ECHO "hELLO wORD" 
-
+ECHO "HELLO WORD"  
+ECHO 'OLÀ Mundo Véio!!
 ?>
